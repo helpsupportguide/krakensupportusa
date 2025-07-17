@@ -11,7 +11,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'Support Guide'
-copyright = '2025, Trust Wallet'
+copyright = '2025, Kraken'
 author = 'Hennry'
 
 # The full version, including alpha/beta/rc tags
@@ -20,11 +20,11 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # SEO Title for browser tab and HTML pages
-html_title = "How Do I Talk to Customer Support of Trust Wallet?"
+html_title = "How to Contact Kraken Support Live Person For Wallet Help?"
 
 
 # Optional short title for nav bar
-html_short_title = "How Do I Talk to Customer Support of Trust Wallet?"
+html_short_title = "How to Contact Kraken Support Live Person For Wallet Help?"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
